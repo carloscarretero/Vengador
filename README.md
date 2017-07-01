@@ -1,4 +1,5 @@
 # Vengador
+![App logo](https://github.com/carloscarretero/Vengador/blob/master/logo.PNG)
 
 ## Creación
 - Autores: Carlos Carretero Aguilar y Manuel Jesús López Jiménez
