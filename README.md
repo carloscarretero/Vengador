@@ -4,7 +4,7 @@
 </p>
 
 ## Creación
-- Autores: Carlos Carretero Aguilar y Manuel Jesús López Jiménez
+- Autores: Carlos Carretero Aguilar y Manuel Jesús López Jiménez @ManuelLopz
 - Herramientas: Eclipse
 - Lenguajes: Java, MySQL
 
