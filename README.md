@@ -1,5 +1,7 @@
 # Vengador
-<div style="text-align:center"><img src ="https://github.com/carloscarretero/Vengador/blob/master/logo.PNG" /></div>
+<p align="center">
+  <img src ="https://github.com/carloscarretero/Vengador/blob/master/logo.PNG"/>
+</p>
 
 ## Creación
 - Autores: Carlos Carretero Aguilar y Manuel Jesús López Jiménez
