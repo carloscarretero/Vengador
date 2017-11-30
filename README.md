@@ -1,4 +1,7 @@
 # Vengador
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d94aac6dbc7646ecbd32035f3871a92a)](https://www.codacy.com/app/carsimple23/Vengador?utm_source=github.com&utm_medium=referral&utm_content=carloscarretero/Vengador&utm_campaign=badger)
+
 <p align="center">
   <img src ="https://github.com/carloscarretero/Vengador/blob/master/logo.PNG"/>
 </p>
